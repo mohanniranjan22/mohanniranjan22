@@ -1,3 +1,4 @@
+<img width="100%" alt="header" src="https://github.com/mohanniranjan22/mohanniranjan22/blob/main/github-header-image%20(1).png">
 <h1 align="center">Hi 👋, I'm ANKAM MOHAN NIRANJAN</h1>
 <h3 align="center">I am the Full Stack Python Developer</h3>
 <img align="right"  alt="coding" height="200" widht="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rwfbkVgA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x88nwrvshk9eqt61g9bd.png"
