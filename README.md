@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANKAM MOHAN NIRANJAN</h1>
 <h3 align="center">I am the Full Stack Python Developer</h3>
-<img align="right"  alt="coding" widht="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw2rGG3KpyUSwEcX0rUmquQ9&ust=1709267533101000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi2__Lbz4QDFQAAAAAdAAAAABAE"
+<img align="right"  alt="coding" widht="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanniranjan22&label=Profile%20views&color=0e75b6&style=flat" alt="mohanniranjan22" /> </p>
 
 - 📫 How to reach me **mohanniranjan9999@gmail.com**
